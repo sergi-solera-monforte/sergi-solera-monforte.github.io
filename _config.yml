@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate in AI & Education. Full-Stack Research Engineer specializing in LLMs, Multi-Agent Systems, and Intelligent Tutoring.
 footer_text: >
-  Copyright © Sergi Solera Monforte.
+  ""
 keywords: artificial-intelligence, intelligent-tutoring-systems, LLM, multi-agent-systems, education-technology, full-stack-engineer # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

@@ -2,7 +2,7 @@
 layout: page
 title: Be My Mate (Master's Thesis)
 description: Award-winning framework for simulating Virtual Students using LLM-based Multi-Agent Systems.
-img: assets/img/tutoragents_arch.png
+img: assets/img/tfm_tutoragents_chat.png
 importance: 2
 category: research
 related_publications: true

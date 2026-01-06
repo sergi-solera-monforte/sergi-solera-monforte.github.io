@@ -28,26 +28,25 @@ latest_posts:
   limit: 3
 ---
 
-I am **Sergi Solera Monforte**, a PhD Candidate in **Artificial Intelligence** at the [Universitat de València](https://www.uv.es/) and a core researcher within the **HiPIS (High Performance and Intelligent Systems)** group. My work sits at the intersection of **Generative AI** and **Education Technology (EdTech)**.
+I am **Sergi Solera Monforte**, a PhD Candidate in **Artificial Intelligence** at the [Universitat de València](https://www.uv.es/), working within the **HiPIS (High Performance and Intelligent Systems)** research group. My work sits at the intersection of **Generative AI** and **Education Technology (EdTech)**.
 
-My research focuses on the next generation of **Intelligent Tutoring Systems (ITS)**. I am moving the field beyond traditional 1-on-1 tutoring by engineering **Collaborative Learning Environments** powered by **Large Language Models (LLMs)** and **Multi-Agent Systems (MAS)**.
+My research investigates methods to enhance **Intelligent Tutoring Systems (ITS)** by introducing social dimensions to the learning process. I am exploring how **Collaborative Learning Environments** powered by **Large Language Models (LLMs)** and **Multi-Agent Systems (MAS)** can support students more effectively than traditional 1-on-1 tutoring.
 
-### Research Vision: The Social AI
-My primary objective is to engineer **Virtual Students**—autonomous AI agents capable of simulating peer interactions. By leveraging **Agentic Workflows** and Cognitive Architectures, I build systems where human students collaborate with AI peers to solve complex problems, fostering the "Learning by Teaching" effect. This research is funded by a competitive predoctoral contract from the **Generalitat Valenciana**.
+### Research Focus
+My primary objective is to develop **Virtual Students**—autonomous agents that simulate peer interactions. By leveraging **Cognitive Architectures**, I aim to build systems where human students can collaborate with AI peers to solve complex problems, fostering the "Learning by Teaching" effect. This research is supported by a predoctoral contract from the **Generalitat Valenciana** (CIACIF/2023/344).
 
-### Engineering & Infrastructure
-Unlike pure theorists, I bring a **Senior Full-Stack Engineering** background to research. I specialize in bridging the gap between academic prototypes and scalable, production-grade infrastructure.
-* **Cloud-Native AI:** Expertise in deploying LLMs and microservices using **Docker** and **Kubernetes**.
-* **Architecture:** Proven track record in modernizing legacy monoliths into decoupled **Spring Boot** and **React** architectures.
-* **Applied R&D:** Led the development of urban air quality monitoring systems for the **Valencia City Council** (Smart Cities).
+### Engineering Background
+I believe that robust infrastructure is essential for reproducible research. With a background in **Full-Stack Engineering**, I strive to bridge the gap between theoretical models and scalable applications.
+* **Cloud-Native AI:** Experience deploying research prototypes using **Docker** and **Kubernetes**.
+* **Architecture:** Applying **Spring Boot** and **React** patterns to create modular, maintainable educational platforms.
+* **Applied Projects:** I have had the opportunity to contribute to smart city initiatives, including air quality monitoring systems for the **Valencia City Council**.
 
-### Highlights & Recognition
-* **🏆 València Innovation Capital Award:** Recipient of the 5,000€ prize for excellence in R&D and urban innovation.
-* **🎓 Academic Excellence:** Awarded the **Extraordinary Award** (Best Academic Record) for both Bachelor's and Master's degrees in Computer Engineering.
+### Honors & Awards
+* **València Innovation Capital Award:** Recipient of the 2025 award for excellence in R&D (5,000€).
+* **Academic Excellence:** Received the **Extraordinary Award** (Best Academic Record) for both my Bachelor's and Master's degrees in Computer Engineering.
 
 ### Tech Stack & Interests
 * **Research Areas:** AI in Education (AIED), Human-AI Collaboration, NLP, Multi-Agent Orchestration (SPADE, LangChain).
-* **Development:** Python (PyTorch, Transformers), Java (Spring Boot), React, TypeScript.
-* **DevOps:** CI/CD, MicroK8s, Linux Administration.
+* **Development:** Python (PyTorch, Transformers), Java (Spring Boot), React.
 
-I am always open to discussing **research collaborations** or **engineering consulting** opportunities in the AI space.
+I am always open to connecting with fellow researchers and discussing potential collaborations in the AI space.

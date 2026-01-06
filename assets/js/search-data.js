@@ -426,6 +426,11 @@ ninja.data = [{
           description: "Award-winning framework for simulating Virtual Students using LLM-based Multi-Agent Systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-phd-thesis",
+          title: 'PhD Thesis',
+          description: "Conversational Agents Integration in Intelligent Tutoring Systems (2024-2028).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-cv',
         title: 'CV',

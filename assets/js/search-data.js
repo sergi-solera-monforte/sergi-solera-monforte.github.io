@@ -420,17 +420,17 @@ ninja.data = [{
           title: 'TutorChat Modernization (Computer Science Final Degree Project)',
           description: "Refactoring and Dockerization of a legacy Intelligent Tutoring System.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_tfg_project/";
             },},{id: "projects-be-my-mate-master-39-s-thesis",
           title: 'Be My Mate (Master&amp;#39;s Thesis)',
           description: "Award-winning framework for simulating Virtual Students using LLM-based Multi-Agent Systems.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_tfm_project/";
             },},{id: "projects-phd-thesis",
           title: 'PhD Thesis',
           description: "Conversational Agents Integration in Intelligent Tutoring Systems (2024-2028).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_phd_project/";
             },},{
         id: 'social-cv',
         title: 'CV',

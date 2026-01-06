@@ -28,14 +28,26 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD Candidate in Artificial Intelligence at the [Universitat de València](https://www.uv.es/), working within the **HiPIS (High Performance and Intelligent Systems)** research group. My research focuses on transforming Intelligent Tutoring Systems (ITS) from solitary experiences into **collaborative learning environments** using Large Language Models (LLMs) and Multi-Agent Systems.
+I am **Sergi Solera Monforte**, a PhD Candidate in **Artificial Intelligence** at the [Universitat de València](https://www.uv.es/) and a core researcher within the **HiPIS (High Performance and Intelligent Systems)** group. My work sits at the intersection of **Generative AI** and **Education Technology (EdTech)**.
 
-My core research objective is to engineer **Virtual Students**—AI agents capable of simulating peer interactions to foster collaborative problem-solving. This work is currently supported by a predoctoral contract from the **Generalitat Valenciana**.
+My research focuses on the next generation of **Intelligent Tutoring Systems (ITS)**. I am moving the field beyond traditional 1-on-1 tutoring by engineering **Collaborative Learning Environments** powered by **Large Language Models (LLMs)** and **Multi-Agent Systems (MAS)**.
 
-Prior to my PhD, I worked as a **Full-Stack Research Engineer** and Data Scientist. Unlike many researchers who focus solely on theory, I have extensive experience building production-grade infrastructure using **React, Spring Boot, and Kubernetes**. I led the architectural modernization of *Tutorchat* and developed urban air quality monitoring systems for the Valencia City Council.
+### Research Vision: The Social AI
+My primary objective is to engineer **Virtual Students**—autonomous AI agents capable of simulating peer interactions. By leveraging **Agentic Workflows** and Cognitive Architectures, I build systems where human students collaborate with AI peers to solve complex problems, fostering the "Learning by Teaching" effect. This research is funded by a competitive predoctoral contract from the **Generalitat Valenciana**.
 
-**Highlights & Recognition:**
-* **Awards:** Recipient of the **València Innovation Capital Award** (5,000€) for excellence in R&D and the **Extraordinary Award** for both Bachelor's and Master's degrees (Best Academic Record).
-* **Tech Stack:** Java (Spring Boot), Python (PyTorch/Transformers), React, Docker/Kubernetes.
+### Engineering & Infrastructure
+Unlike pure theorists, I bring a **Senior Full-Stack Engineering** background to research. I specialize in bridging the gap between academic prototypes and scalable, production-grade infrastructure.
+* **Cloud-Native AI:** Expertise in deploying LLMs and microservices using **Docker** and **Kubernetes**.
+* **Architecture:** Proven track record in modernizing legacy monoliths into decoupled **Spring Boot** and **React** architectures.
+* **Applied R&D:** Led the development of urban air quality monitoring systems for the **Valencia City Council** (Smart Cities).
 
-I am always open to discussing the future of AI in Education.
+### Highlights & Recognition
+* **🏆 València Innovation Capital Award:** Recipient of the 5,000€ prize for excellence in R&D and urban innovation.
+* **🎓 Academic Excellence:** Awarded the **Extraordinary Award** (Best Academic Record) for both Bachelor's and Master's degrees in Computer Engineering.
+
+### Tech Stack & Interests
+* **Research Areas:** AI in Education (AIED), Human-AI Collaboration, NLP, Multi-Agent Orchestration (SPADE, LangChain).
+* **Development:** Python (PyTorch, Transformers), Java (Spring Boot), React, TypeScript.
+* **DevOps:** CI/CD, MicroK8s, Linux Administration.
+
+I am always open to discussing **research collaborations** or **engineering consulting** opportunities in the AI space.

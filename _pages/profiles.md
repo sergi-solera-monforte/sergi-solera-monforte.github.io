@@ -8,7 +8,7 @@ nav_order: 7
 
 profiles:
   - align: left
-    image: prof_pic_supervisor.jpg # Optional: Add your supervisor's photo if you have permission
+    # image: prof_pic_supervisor.jpg # Optional: Add your supervisor's photo if you have permission
     content: about_supervisor.md
     image_circular: true
     more_info: >

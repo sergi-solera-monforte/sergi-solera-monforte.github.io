@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TutorChat Modernization (Computer Science Final Degree Project)
+title: Final Degree Project - TutorChat
 description: Refactoring and Dockerization of a legacy Intelligent Tutoring System.
 img: assets/img/tutorchat.png
 importance: 3

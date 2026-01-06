@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD Thesis
+title: PhD Thesis - TutorAgents
 description: Conversational Agents Integration in Intelligent Tutoring Systems (2024-2028).
 img: assets/img/phd_vision.png
 importance: 1

@@ -416,18 +416,18 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-tutorchat-modernization-computer-science-final-degree-project",
-          title: 'TutorChat Modernization (Computer Science Final Degree Project)',
+          section: "News",},{id: "projects-final-degree-project-tutorchat",
+          title: 'Final Degree Project - TutorChat',
           description: "Refactoring and Dockerization of a legacy Intelligent Tutoring System.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_tfg_project/";
-            },},{id: "projects-be-my-mate-master-39-s-thesis",
-          title: 'Be My Mate (Master&amp;#39;s Thesis)',
+            },},{id: "projects-master-39-s-thesis-be-my-mate",
+          title: 'Master&amp;#39;s Thesis - Be My Mate',
           description: "Award-winning framework for simulating Virtual Students using LLM-based Multi-Agent Systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_tfm_project/";
-            },},{id: "projects-phd-thesis",
-          title: 'PhD Thesis',
+            },},{id: "projects-phd-thesis-tutoragents",
+          title: 'PhD Thesis - TutorAgents',
           description: "Conversational Agents Integration in Intelligent Tutoring Systems (2024-2028).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_phd_project/";

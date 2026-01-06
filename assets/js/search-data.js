@@ -46,14 +46,14 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Academic teaching and laboratory instruction.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "Research Advisors &amp; Collaborators",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";

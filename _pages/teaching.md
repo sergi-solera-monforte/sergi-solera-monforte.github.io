@@ -13,13 +13,11 @@ nav_order: 6
 * **Role:** Laboratory Instructor
 * **Content:** Implementation of fundamental data structures (lists, trees, graphs) and algorithmic complexity analysis.
 * **Institution:** Universitat de València, School of Engineering (ETSE).
-* [cite_start]**Ref:** [cite: 272, 275]
 
 **Informatics** | *Undergraduate in Electronic Engineering*
 * **Role:** Laboratory Instructor
 * **Content:** Introduction to programming, debugging, and software engineering basics.
 * **Institution:** Universitat de València, School of Engineering (ETSE).
-* [cite_start]**Ref:** [cite: 287, 290]
 
 ### Academic Year 2024 - 2025
 
@@ -27,10 +25,8 @@ nav_order: 6
 * **Role:** Laboratory Instructor
 * **Content:** Implementation of fundamental data structures (lists, trees, graphs) and algorithmic complexity analysis.
 * **Institution:** Universitat de València, School of Engineering (ETSE).
-* [cite_start]**Ref:** [cite: 272, 275]
 
 **Informatics** | *Undergraduate in Electronic Engineering*
 * **Role:** Laboratory Instructor
 * **Content:** Introduction to programming, debugging, and software engineering basics.
 * **Institution:** Universitat de València, School of Engineering (ETSE).
-* [cite_start]**Ref:** [cite: 287, 290]

@@ -4,7 +4,6 @@
     "label": "PhD Candidate & Full-Stack Research Engineer",
     "image": "assets/img/prof_pic.jpg",
     "email": "sergi.solera@uv.es",
-    "phone": "(+34) 606 57 35 57",
     "url": "https://sergi-solera-monforte.github.io/",
     "summary": "PhD Candidate in AI & Education exploring the intersection of Large Language Models (LLMs) and Multi-Agent Systems. I bridge the gap between academic research and production engineering, with specialized expertise in building scalable, collaborative Intelligent Tutoring Systems (ITS) using Spring Boot, React, and Kubernetes.",
     "location": {

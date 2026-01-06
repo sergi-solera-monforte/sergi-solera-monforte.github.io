@@ -436,7 +436,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("https://cvn.fecyt.es/editor/cvnOnline/0009-0002-0090-8089", "_blank");
         },
       },{
         id: 'social-email',
@@ -453,13 +453,6 @@ ninja.data = [{
           window.open("https://github.com/sergi-solera-monforte", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -474,25 +467,11 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0002-0090-8089", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=MSV-4636-2025", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',

@@ -7,7 +7,7 @@ subtitle: <b>PhD Candidate in AI & Education</b>. <br> Full-Stack Research Engin
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false 
+  image_circular: true 
   more_info: >
     <p>HiPIS Research Group</p>
     <p>Universitat de València</p>

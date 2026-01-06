@@ -409,11 +409,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-tutorchat-modernization",
-          title: 'TutorChat Modernization',
+          section: "News",},{id: "projects-tutorchat-modernization-computer-science-final-degree-project",
+          title: 'TutorChat Modernization (Computer Science Final Degree Project)',
           description: "Refactoring and Dockerization of a legacy Intelligent Tutoring System.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/tfg_project/";
+            },},{id: "projects-be-my-mate-master-39-s-thesis",
+          title: 'Be My Mate (Master&amp;#39;s Thesis)',
+          description: "Award-winning framework for simulating Virtual Students using LLM-based Multi-Agent Systems.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tfm_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
